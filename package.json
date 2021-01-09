@@ -72,7 +72,7 @@
     "source-map-support": "0.5.19",
     "stream-to-promise": "2.2.0",
     "strip-json-comments": "3.0.1",
-    "tmp": "0.1.0",
+    "tmp": "0.2.1",
     "update-notifier": "3.0.1",
     "watchpack": "1.7.5",
     "yargs": "13.2.4",
